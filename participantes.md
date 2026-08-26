@@ -15,3 +15,7 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 - **Nombre:Diego Ramirez
 - **Programa Ambiental
 - **Quiero aprender: Si muchisimo
+
+- **Nombre: Laura Farfan
+- **Programa: Ing Ambiental
+- **Quiero aprender: Sobre estos temas 
