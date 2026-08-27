@@ -15,3 +15,9 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 - **Nombre:Diego Ramirez
 - **Programa Ambiental
 - **Quiero aprender: Si muchisimo
+
+- ## Agregue su información aquí
+
+- **Nombre:David Guzman
+- **Programa Ambiental
+- **Quiero aprender: Si un poco
