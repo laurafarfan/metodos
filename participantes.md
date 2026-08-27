@@ -19,3 +19,8 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 - **Nombre: Laura Farfan
 - **Programa: Ing Ambiental
 - **Quiero aprender: Sobre estos temas 
+- ## Agregue su información aquí
+
+- **Nombre:David Guzman
+- **Programa Ambiental
+- **Quiero aprender: Si un poco
